@@ -90,7 +90,7 @@ Note: Kaggle files (like `scores.json`) can be lost when the session ends. Downl
 
 # 📸 Demo
 
-> Add screenshots here: Ask tab, Quiz tab with a graded answer, History tab, and the sidebar upload.
+> screenshots for : Ask tab, Quiz tab with a graded answer, History tab, and the sidebar upload.
 
 <img width="1180" height="554" alt="2" src="https://github.com/user-attachments/assets/3e2ddcae-a058-4c25-9591-d3690524d764" />
 
