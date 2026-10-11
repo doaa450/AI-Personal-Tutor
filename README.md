@@ -8,7 +8,7 @@
 | ---------------- | ------------------------------------ |
 | Full Name        | Doaa Ahmed Mohammed                    |
 | Project Name     | AI Personal Tutor (RAG)              |
-| GitHub Username  | doaa450<img width="1180" height="554" alt="2" src="https://github.com/user-attachments/assets/37801596-c160-4a3c-a920-5106d7e4381d" />
+| GitHub Username  | doaa450
               |
 | Internship Batch | August–October 2026                  |
 | Training Program | Large Language Models (LLMs) Program |
@@ -90,6 +90,7 @@ Note: Kaggle files (like `scores.json`) can be lost when the session ends. Downl
 ---
 
 # 📸 Demo
+<img width="1180" height="554" alt="2" src="https://github.com/user-attachments/assets/37801596-c160-4a3c-a920-5106d7e4381d" />
 
 > Add screenshots here: Ask tab, Quiz tab with a graded answer, History tab, and the sidebar upload.
 
