@@ -6,9 +6,9 @@
 
 | Field            | Value                                |
 | ---------------- | ------------------------------------ |
-| Full Name        | Doaa Ahmed Mohammed                    |
+| Full Name        | Doaa Ahmed Mohammed                     |
 | Project Name     | AI Personal Tutor (RAG)              |
-| GitHub Username  | doaa450
+| GitHub Username  | doaa450              |
 | Internship Batch | August–October 2026                  |
 | Training Program | Large Language Models (LLMs) Program |
 | Organization     | [**Edrak for Ai**](https://edrak4ai.com/en)                         |
@@ -89,18 +89,19 @@ Note: Kaggle files (like `scores.json`) can be lost when the session ends. Downl
 ---
 
 # 📸 Demo
-<img width="1180" height="554" alt="2" src="https://github.com/user-attachments/assets/37801596-c160-4a3c-a920-5106d7e4381d" />
-```
 
-<img width="1206" height="616" alt="3" src="https://github.com/user-attachments/assets/35211565-57a3-4d52-b5ff-157f1120fa6f" />
-
+> Add screenshots here: Ask tab, Quiz tab with a graded answer, History tab, and the sidebar upload.
 
 ```
-
-<img width="1095" height="376" alt="4" src="https://github.com/user-attachments/assets/36b62075-ebd3-423e-8c39-8bb740cb8a7e" />
-
+![Ask](<img width="1180" height="554" alt="2" src="https://github.com/user-attachments/assets/3e2ddcae-a058-4c25-9591-d3690524d764" />
+)
+![Quiz](<img width="1206" height="616" alt="3" src="https://github.com/user-attachments/assets/ff766d0d-a868-4475-8d19-df640cb2a63d" />
+)
+![History](<img width="1095" height="376" alt="4" src="https://github.com/user-attachments/assets/7480eda2-8bb0-496a-93b3-e9a0a7695550" />
+)
 ```
 
+---
 
 # 📈 Results
 
