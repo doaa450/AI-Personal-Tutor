@@ -96,9 +96,6 @@ Note: Kaggle files (like `scores.json`) can be lost when the session ends. Downl
 
 <img width="1095" height="376" alt="4" src="https://github.com/user-attachments/assets/36b62075-ebd3-423e-8c39-8bb740cb8a7e" />
 
-
-```
-
 ```
 
 
