@@ -6,9 +6,10 @@
 
 | Field            | Value                                |
 | ---------------- | ------------------------------------ |
-| Full Name        | <YOUR FULL NAME>                     |
+| Full Name        | Doaa Ahmed Mohammed                    |
 | Project Name     | AI Personal Tutor (RAG)              |
-| GitHub Username  | <YOUR GITHUB USERNAME>               |
+| GitHub Username  | doaa450<img width="1180" height="554" alt="2" src="https://github.com/user-attachments/assets/37801596-c160-4a3c-a920-5106d7e4381d" />
+              |
 | Internship Batch | August–October 2026                  |
 | Training Program | Large Language Models (LLMs) Program |
 | Organization     | [**Edrak for Ai**](https://edrak4ai.com/en)                         |
@@ -93,7 +94,8 @@ Note: Kaggle files (like `scores.json`) can be lost when the session ends. Downl
 > Add screenshots here: Ask tab, Quiz tab with a graded answer, History tab, and the sidebar upload.
 
 ```
-![Ask](screenshots/ask.png)
+![Ask](screenshots/ask.png)<img width="1180" height="554" alt="2" src="https://github.com/user-attachments/assets/6c5bd787-2bbf-4797-bd81-08f87e0f7669" />
+
 ![Quiz](screenshots/quiz.png)
 ![History](screenshots/history.png)
 ```
